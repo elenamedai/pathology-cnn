@@ -21,8 +21,5 @@ I am learning how to use **Convolutional Neural Networks (CNNs)** to classify me
 - Jupyter Notebook
 - MONAI (for medical imaging)
 
-## Results
-(to be added after training the model)
-
 ## Author
 Elena Muldiiarova
