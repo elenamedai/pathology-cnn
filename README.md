@@ -1,6 +1,6 @@
 # Pathology CNN Project
 
-This is my first project in **computational pathology**.  
+This is my first project in **computational pathology**. 
 I am learning how to use **Convolutional Neural Networks (CNNs)** to classify medical images.
 
 ## Goals
